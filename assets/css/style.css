@@ -37,6 +37,7 @@ img {
     display: inline-block;
     width: 250px;
     height: 150px;
+    text-align: justify;
 }
 .img-desc h3 {
     margin-bottom: 15px;
